@@ -24,3 +24,4 @@ console.log(soucet)
 //věty s oběma jmény a součtem
 
 let text = userName + "a" + userName + "mají" + soucet + "let."
+console.log (text)
