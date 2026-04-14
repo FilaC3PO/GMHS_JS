@@ -6,7 +6,7 @@ alert(3);
 let userName = Filip
 console.log(userName);
 
-userNamel = "violka" 
+userNamel = "violka"
 console.log(userName);
 
 //proměnné pro věk obou lidí
